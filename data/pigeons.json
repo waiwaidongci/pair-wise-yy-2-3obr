@@ -1,4 +1,6 @@
 {
+  "seq": { "vaccine": 1, "recall": 1, "entry": 1 },
+  "recalls": [],
   "pigeons": [
     {
       "ringNo": "CHN-2026-001",
@@ -7,10 +9,16 @@
       "motherRing": "CHN-2023-512",
       "color": "灰",
       "loft": "北岸A棚",
+      "birthDate": "2026-01-10",
       "vaccines": [
         {
+          "id": "V1",
           "date": "2026-04-01",
-          "name": "新城疫"
+          "disease": "新城疫",
+          "batchNo": "B-ND-2603",
+          "status": "valid",
+          "createdAt": "2026-04-01T09:00:00.000Z",
+          "amended": []
         }
       ],
       "transfers": [
@@ -28,7 +36,8 @@
           "returnTime": "10:42",
           "rank": 18
         }
-      ]
+      ],
+      "entries": []
     },
     {
       "ringNo": "CHN-2022-188",
@@ -37,9 +46,11 @@
       "motherRing": "",
       "color": "雨点",
       "loft": "种鸽棚",
+      "birthDate": "2022-03-12",
       "vaccines": [],
       "transfers": [],
-      "races": []
+      "races": [],
+      "entries": []
     },
     {
       "ringNo": "CHN-2023-512",
@@ -48,9 +59,11 @@
       "motherRing": "",
       "color": "红轮",
       "loft": "种鸽棚",
+      "birthDate": "2023-02-20",
       "vaccines": [],
       "transfers": [],
-      "races": []
+      "races": [],
+      "entries": []
     }
   ]
 }
