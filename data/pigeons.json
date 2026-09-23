@@ -7,10 +7,15 @@
       "motherRing": "CHN-2023-512",
       "color": "灰",
       "loft": "北岸A棚",
+      "birthDate": "2026-01-10",
       "vaccines": [
         {
+          "id": "V-1001",
+          "name": "新城疫",
           "date": "2026-04-01",
-          "name": "新城疫"
+          "batchNo": "NC260301",
+          "createdAt": "2026-04-02T09:00:00.000Z",
+          "corrections": []
         }
       ],
       "transfers": [
@@ -37,6 +42,7 @@
       "motherRing": "",
       "color": "雨点",
       "loft": "种鸽棚",
+      "birthDate": "2022-03-05",
       "vaccines": [],
       "transfers": [],
       "races": []
@@ -48,9 +54,12 @@
       "motherRing": "",
       "color": "红轮",
       "loft": "种鸽棚",
+      "birthDate": "2023-02-18",
       "vaccines": [],
       "transfers": [],
       "races": []
     }
-  ]
+  ],
+  "recalls": [],
+  "entries": []
 }
